@@ -1,5 +1,5 @@
 # settings
-VERSION = 2
+VERSION = 3
 GROUP = 1
 
 # actions
