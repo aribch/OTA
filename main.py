@@ -8,5 +8,5 @@ def loop():
         sleep(1)
 
 
-print('NEW booting from A...')
-loop(
+print('NEW 4 version booting from A...')
+loop()
